@@ -1,2 +1,2 @@
 # LTAMateevici-Cainari
-Ste-ul liceului IPLT„Alexei Mateevici” Căinari, creat la orele de Proiectare și Dezvoltare WEB 
+Site-ul liceului IPLT„Alexei Mateevici” Căinari, creat la orele de Proiectare și Dezvoltare WEB 
